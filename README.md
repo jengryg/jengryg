@@ -2,7 +2,8 @@
 
 Ahoy! My name is `jengryg`. I build stuff with code since the mid 2000s.
 
-Here you can find some of my (non-professional) side-projects I do when I am not busy building solutions for employers.
+Here you can find a small selection of my (non-professional) side-projects I do when I am not busy building solutions
+for employers. The code in these repositories is not meant to be enterprise grade.
 
 ## Repositories regarding my research in stochastic geometry
 
